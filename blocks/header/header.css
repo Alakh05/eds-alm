@@ -55,6 +55,8 @@ header nav p {
 
 header nav a:any-link {
   color: currentcolor;
+  display: table-cell;
+  padding-right: 30px;
 }
 
 /* hamburger */
