@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Home | AEM Boilerplate</title>
+    <link rel="canonical" href="https://main--franklin-alm-test--prafulvaishnav.hlx.page/guest/3c4a32d4d7f34b139651407db1b079c6/">
+    <meta name="description" content="Use this template repository as the starting point for new EDS projects.">
+    <meta property="og:title" content="Home | Helix Project Boilerplate">
+    <meta property="og:description" content="Use this template repository as the starting point for new Helix projects.">
+    <meta property="og:url" content="https://main--franklin-alm-test--prafulvaishnav.hlx.page/guest/3c4a32d4d7f34b139651407db1b079c6/">
+    <meta property="og:image" content="https://main--franklin-alm-test--prafulvaishnav.hlx.page/default-meta-image.png?width=1200&#x26;format=pjpg&#x26;optimize=medium">
+    <meta property="og:image:secure_url" content="https://main--franklin-alm-test--prafulvaishnav.hlx.page/default-meta-image.png?width=1200&#x26;format=pjpg&#x26;optimize=medium">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Home | Helix Project Boilerplate">
+    <meta name="twitter:description" content="Use this template repository as the starting point for new Helix projects.">
+    <meta name="twitter:image" content="https://main--franklin-alm-test--prafulvaishnav.hlx.page/default-meta-image.png?width=1200&#x26;format=pjpg&#x26;optimize=medium">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="/scripts/aem.js" type="module"></script>
+    <script src="/scripts/scripts.js" type="module"></script>
+    <link rel="stylesheet" href="/styles/styles.css">
+    <link rel="icon" href="data:,">
+  </head>
+  <body>
+    <header></header>
+    <main>
+      <div>
+        <div class="non-logged-in"></div>
+      </div>
+    </main>
+    <footer></footer>
+  </body>
+</html>
